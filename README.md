@@ -30,7 +30,4 @@ Gostaria de conversar sobre tecnologia, oportunidades ou automação? Pode me ch
 
 ---
 
-### 📊 Estatísticas:
-![Estatísticas do GitHub](https://vercel.app)
-
 *"Automatizar não é apenas ganhar tempo, é garantir que o humano foque no que realmente importa."*
