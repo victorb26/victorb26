@@ -1,22 +1,36 @@
-<img alt="Victor Barros" src="./Victor Barros.png">
+# Olá, eu sou o Victor! 👋
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/victorjcbarros/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:victorjuda49@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=+5521982293270" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
-  </a>
-</div>
+### 👨‍💻 Analista de Sistemas & Entusiasta de Automação (Cloud/DevOps)
 
-###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&username=victorb26" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=victorb26" height="150" alt="languages graph"  />
-</div>
+Estudante do último período de Tecnologia com foco em transformar tarefas manuais em processos automatizados e resilientes. Atualmente, gerencio ambientes críticos de servidores Windows e infraestrutura para sistemas ERP.
 
+---
 
+### 🚀 O que eu ando fazendo:
+- **Automação de Infra:** Desenvolvendo scripts em PowerShell para gestão de backups e manutenção de servidores.
+- **Cloud:** Integrando rotinas locais com ambientes em nuvem (Azure/OneDrive).
+- **Projetos Recentes:** [Automated Firebird Backup to Cloud](https://github.com/victorb26/Invoke-FirebirdBackup) - Uma solução que automatiza o Disaster Recovery de bancos de dados de 2.5GB.
 
+---
+
+### 🛠 Tecnologias e Ferramentas:
+- **Linguagens:** PowerShell, SQL, Java Script, entre outras...
+- **Infraestrutura:** Windows Server, VPS, Redes (TCP/IP, VPN), Active Directory.
+- **Bancos de Dados:** Firebird, SQL Server.
+- **Monitoramento & Suporte:** Service Desk, Troubleshooting N2, SLA Management.
+
+---
+
+### 📫 Vamos nos conectar?
+Gostaria de conversar sobre tecnologia, oportunidades ou automação? Pode me chamar:
+
+- **LinkedIn:** [://linkedin.com](https://://linkedin.com)
+- **E-mail:** [seu-email@provedor.com](mailto:seu-email@provedor.com)
+- **WhatsApp:** [+55 (XX) XXXXX-XXXX](https://wa.me)
+
+---
+
+### 📊 Estatísticas:
+![Estatísticas do GitHub](https://vercel.app)
+
+*"Automatizar não é apenas ganhar tempo, é garantir que o humano foque no que realmente importa."*
