@@ -24,9 +24,9 @@ Estudante do último período de Tecnologia com foco em transformar tarefas manu
 ### 📫 Vamos nos conectar?
 Gostaria de conversar sobre tecnologia, oportunidades ou automação? Pode me chamar:
 
-- **LinkedIn:** [://linkedin.com](https://://linkedin.com)
-- **E-mail:** [seu-email@provedor.com](mailto:seu-email@provedor.com)
-- **WhatsApp:** [+55 (XX) XXXXX-XXXX](https://wa.me)
+- **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/victorjcbarros/)
+- **E-mail:** [seu-email@provedor.com](victorjuda49@gmail.com)
+- **WhatsApp:** [+55 (XX) XXXXX-XXXX](https://wa.link/749w4d)
 
 ---
 
